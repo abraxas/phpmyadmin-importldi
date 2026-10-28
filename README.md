@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/phpmyadmin-importldi">phpmyadmin-importldi</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/phpmyadmin-importldi"><strong>https://abraxaslabs.tech/research/phpmyadmin-importldi</strong></a>
+</p>
+
 
 # phpmyadmin-importldi
 
